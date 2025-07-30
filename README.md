@@ -49,6 +49,7 @@ Centralized configuration
 
 
  Project Structure
+ 
 skillsync-backend/
 ├── api-gateway/
 ├── auth-service/
